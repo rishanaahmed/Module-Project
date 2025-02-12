@@ -11,4 +11,12 @@ Here’s a structured approach to preprocessing and analysis tasks;
 7.Check for correlations between features to understand their relationships.
 8.Use visualization libraries like matplotlib, seaborn, or plotly to create informative and interactive plots.
 
-These tasks guides through cleaning, analyzing, and visualizing the data effectively
+These tasks guides through cleaning, analyzing, and visualizing the data effectively.
+
+In this project, after some evaluations on distribution of employees across each team and calculating the percentage split relative to the total number of employees it is seen thatthe team 'New orleans pelicans' has the highest percentage split with a total 19 employees in the team. And the other teams has almost similar percentage split.
+And, after segregating employees based on their positions within the company, there are over 100 employees in the SG position compared to other positions.
+After grouping the employees by their ages, it seen that the age group of 21-30 is predominant with 334 employees working.
+And the highest salary expenditure is from team Los Angeles Lakers and Position SF with a total expenditure of 31866445.0
+Also there is a correlation between age and salary which is 0.2 . 
+
+
